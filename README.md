@@ -84,6 +84,14 @@ docker volume inspect kali-root kali-postgres
 
 - --rm switch makes Docker delete the container once it stops (i.e. once you exit the shell). This is perfectly fine (and preferred behaviour — you don’t want to waste storage on a bunch of stopped containers) as you have all the components — the image and the two volumes — to recreate it.
 
+## Security
+
+CIS Benchmark Docker - docker setup analysis
+CIS Benchmark for Kubernetes - kubernetes setup analysis
+OpenSCAP - infrastruce analysis 
+SonarQube - static code analysis
+OWASP Zed Attack Proxy (ZAP) - Web application pen test
+
 
 Resources
 1. [Kali LinuxRevealed: Mastering the Penetration TestingDistribution](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
