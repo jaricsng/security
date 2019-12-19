@@ -87,9 +87,8 @@ docker volume inspect kali-root kali-postgres
 ## Security
 
 - [CIS Benchmark Docker](https://github.com/docker/docker-bench-security) - docker setup analysis
-- CIS Benchmark for Kubernetes - kubernetes setup analysis
-- OpenSCAP - infrastruce analysis 
-- SonarQube - static code analysis
+- [OpenSCAP](https://www.open-scap.org/) - system analysis 
+- [SonarQube](https://www.sonarqube.org/) - code analysis
 - [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Web application pen test
 - [Aqua CIS Docker tool](https://github.com/aquasecurity/docker-bench)
 - [Aqua CIS Kubenetes tool](https://github.com/aquasecurity/kube-bench)
