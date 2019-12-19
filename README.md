@@ -15,10 +15,7 @@ docker run -it kalilinux/kali-rolling:latest /bin/bash
 updates 
 
 ```
-apt update
-apt upgrade
-apt autoremove
-apt clean
+apt update && apt upgrade && apt autoremove && apt clean
 ```
 
 useful install
