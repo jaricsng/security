@@ -86,11 +86,14 @@ docker volume inspect kali-root kali-postgres
 
 ## Security
 
-CIS Benchmark Docker - docker setup analysis
-CIS Benchmark for Kubernetes - kubernetes setup analysis
-OpenSCAP - infrastruce analysis 
-SonarQube - static code analysis
-OWASP Zed Attack Proxy (ZAP) - Web application pen test
+- [CIS Benchmark Docker](https://github.com/docker/docker-bench-security) - docker setup analysis
+- CIS Benchmark for Kubernetes - kubernetes setup analysis
+- OpenSCAP - infrastruce analysis 
+- SonarQube - static code analysis
+- [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - Web application pen test
+- [Aqua CIS Docker tool](https://github.com/aquasecurity/docker-bench)
+- [Aqua CIS Kubenetes tool](https://github.com/aquasecurity/kube-bench)
+- [Aqua kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 
 Resources
@@ -98,4 +101,6 @@ Resources
 2. [Kali Linux Revealed Online Course](https://kali.training/lessons/introduction/)
 3. [Debian Jessie from Discovery to Mastery](https://debian-handbook.info/get/now/)
 4. [Kali Linux In a Docker Container](https://medium.com/@airman604/kali-linux-in-a-docker-container-5a06311624eb)
+5. [CIS Benchmark - Kubernetes](https://www.cisecurity.org/benchmark/kubernetes/)
+6. [CIS Benchmark - Docker](https://www.cisecurity.org/benchmark/docker/)
 
