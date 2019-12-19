@@ -93,6 +93,7 @@ docker volume inspect kali-root kali-postgres
 - [Aqua CIS Docker tool](https://github.com/aquasecurity/docker-bench)
 - [Aqua CIS Kubenetes tool](https://github.com/aquasecurity/kube-bench)
 - [Aqua kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [Metasploit penetration testing framework](https://metasploit.com/)
 
 
 # Resources
