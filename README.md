@@ -25,6 +25,13 @@ apt install man-db
 apt install exploitdb
 ```
 
+install metasploit framework
+```
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+  chmod 755 msfinstall && \
+  ./msfinstall
+```  
+
 saving a copy of the update as new image
 
 exit the running container, and list stopped container
