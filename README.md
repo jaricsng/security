@@ -102,4 +102,6 @@ docker volume inspect kali-root kali-postgres
 4. [Kali Linux In a Docker Container](https://medium.com/@airman604/kali-linux-in-a-docker-container-5a06311624eb)
 5. [CIS Benchmark - Kubernetes](https://www.cisecurity.org/benchmark/kubernetes/)
 6. [CIS Benchmark - Docker](https://www.cisecurity.org/benchmark/docker/)
+7. Free course: [Metasploit](https://www.offensive-security.com/metasploit-unleashed/)
+8. Free course: [Kali Linux Training](https://kali.training/)
 
