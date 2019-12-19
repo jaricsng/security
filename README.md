@@ -16,7 +16,7 @@ updates
 
 ```
 apt update
-apt dist-upgrade
+apt upgrade
 apt autoremove
 apt clean
 ```
